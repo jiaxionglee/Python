@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Time  : 2019-01-02 22:52
+# @Time  : 2019-01-05 19:18
 # @Author: jiaxiong
-# @File  : type.py
+# @File  : __init__.py.py
