@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6331a28d-39fd-4c99-8d0d-bc437abeb45b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clazz/base/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clazz/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clazz/stuclazz/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clazz/stuclazz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clazz/stusclazz/StudentSenior.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clazz/stusclazz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/flexible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/homework2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statement/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statement/func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py/test_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py/test_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit/clazz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit/method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit/pyunitdemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/clazz/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/function/homework.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$test_add.coverage" NAME="test_add Coverage Results" MODIFIED="1546764227036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
     <SUITE FILE_PATH="coverage/Python$list_tuple.coverage" NAME="list_tuple Coverage Results" MODIFIED="1546518556722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/types" />
     <SUITE FILE_PATH="coverage/Python$loop2.coverage" NAME="loop2 Coverage Results" MODIFIED="1546615105695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
     <SUITE FILE_PATH="coverage/Python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1546682082787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/dic" />
@@ -32,12 +24,16 @@
     <SUITE FILE_PATH="coverage/Python$loopctrl2.coverage" NAME="loopctrl2 Coverage Results" MODIFIED="1546616197704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
     <SUITE FILE_PATH="coverage/Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1546684679194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/tuple" />
     <SUITE FILE_PATH="coverage/Python$loop4.coverage" NAME="loop4 Coverage Results" MODIFIED="1546615717054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_in_pyunitdemo_py.coverage" NAME="Unittests in pyunitdemo.py Coverage Results" MODIFIED="1546758242062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
     <SUITE FILE_PATH="coverage/Python$strUse.coverage" NAME="strUse Coverage Results" MODIFIED="1546525976746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/str" />
     <SUITE FILE_PATH="coverage/Python$homework2.coverage" NAME="homework2 Coverage Results" MODIFIED="1546682537561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/Python$type.coverage" NAME="type Coverage Results" MODIFIED="1546520587073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/types" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_clazz_SimpleTest.coverage" NAME="Unittests for clazz.SimpleTest Coverage Results" MODIFIED="1546763261649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
     <SUITE FILE_PATH="coverage/Python$operator.coverage" NAME="operator Coverage Results" MODIFIED="1546609562239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/operator" />
     <SUITE FILE_PATH="coverage/Python$flexible.coverage" NAME="flexible Coverage Results" MODIFIED="1546686349739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_pyunitdemo_TAdd_test_add1.coverage" NAME="Unittests for pyunitdemo.TAdd.test_add1 Coverage Results" MODIFIED="1546758251283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
     <SUITE FILE_PATH="coverage/Python$int_str.coverage" NAME="int_str Coverage Results" MODIFIED="1546517916714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/types" />
+    <SUITE FILE_PATH="coverage/Python$test_parameter.coverage" NAME="test_parameter Coverage Results" MODIFIED="1546763792108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
     <SUITE FILE_PATH="coverage/Python$int_float.coverage" NAME="int_float Coverage Results" MODIFIED="1546518230602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/types" />
     <SUITE FILE_PATH="coverage/Python$loopctrl1.coverage" NAME="loopctrl1 Coverage Results" MODIFIED="1546616128368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
     <SUITE FILE_PATH="coverage/Python$Student.coverage" NAME="Student Coverage Results" MODIFIED="1546687627025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clazz/stuclazz" />
@@ -48,41 +44,59 @@
     <SUITE FILE_PATH="coverage/Python$loop3.coverage" NAME="loop3 Coverage Results" MODIFIED="1546615336260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
     <SUITE FILE_PATH="coverage/Python$loop.coverage" NAME="loop Coverage Results" MODIFIED="1546614967618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
     <SUITE FILE_PATH="coverage/Python$list.coverage" NAME="list Coverage Results" MODIFIED="1546606262482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/list" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_in_method_py.coverage" NAME="Unittests in method.py Coverage Results" MODIFIED="1546761043599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
     <SUITE FILE_PATH="coverage/Python$exception.coverage" NAME="exception Coverage Results" MODIFIED="1546679983459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
     <SUITE FILE_PATH="coverage/Python$set.coverage" NAME="set Coverage Results" MODIFIED="1546609203356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/set" />
     <SUITE FILE_PATH="coverage/Python$loop5.coverage" NAME="loop5 Coverage Results" MODIFIED="1546615996704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statement" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_in_clazz_py.coverage" NAME="Unittests in clazz.py Coverage Results" MODIFIED="1546760311369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
     <SUITE FILE_PATH="coverage/Python$tuple_dic.coverage" NAME="tuple_dic Coverage Results" MODIFIED="1546518819018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/types" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clazz/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/unit/pyunitdemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clazz/base/Person.py">
+        <entry file="file://$PROJECT_DIR$/unit/method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/clazz/stuclazz/Student.py">
+        <entry file="file://$PROJECT_DIR$/py/test_add.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="179">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="e#117#130#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clazz/stusclazz/StudentSenior.py">
+        <entry file="file://$PROJECT_DIR$/py/test_parameter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit/clazz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="24" selection-start-line="30" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -141,6 +155,11 @@
         <option value="$PROJECT_DIR$/clazz/__init__.py" />
         <option value="$PROJECT_DIR$/clazz/subclazz/Student.py" />
         <option value="$PROJECT_DIR$/clazz/stusclazz/StudentSenior.py" />
+        <option value="$PROJECT_DIR$/unit/pyunitdemo.py" />
+        <option value="$PROJECT_DIR$/unit/clazz.py" />
+        <option value="$PROJECT_DIR$/unit/method.py" />
+        <option value="$PROJECT_DIR$/py/test_parameter.py" />
+        <option value="$PROJECT_DIR$/py/test_add.py" />
       </list>
     </option>
   </component>
@@ -166,30 +185,12 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="clazz" type="462c0819:PsiDirectoryNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="clazz" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="clazz" type="462c0819:PsiDirectoryNode" />
-              <item name="stuclazz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="clazz" type="462c0819:PsiDirectoryNode" />
-              <item name="stusclazz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +202,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -231,8 +232,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Student">
-    <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_add">
+    <configuration name="test_add" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,12 +241,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clazz/base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clazz/base/Person.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/test_add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clazz/stuclazz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clazz/stuclazz/Student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/test_parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,79 +277,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StudentSenior" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for clazz.SimpleTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clazz/stusclazz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clazz/stusclazz/StudentSenior.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;clazz.SimpleTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="flexible" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in clazz.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/flexible.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit/clazz.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in method.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/tuple/tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit/method.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Student" />
-        <item itemvalue="Python.Person" />
-        <item itemvalue="Python.StudentSenior" />
-        <item itemvalue="Python.flexible" />
-        <item itemvalue="Python.tuple" />
+        <item itemvalue="Python.test_add" />
+        <item itemvalue="Python.test_parameter" />
+        <item itemvalue="Python tests.Unittests for clazz.SimpleTest" />
+        <item itemvalue="Python tests.Unittests in method.py" />
+        <item itemvalue="Python tests.Unittests in clazz.py" />
       </list>
     </recent_temporary>
   </component>
@@ -365,18 +345,46 @@
       <workItem from="1546436271481" duration="1824000" />
       <workItem from="1546517097932" duration="8223000" />
       <workItem from="1546604838566" duration="10099000" />
-      <workItem from="1546678751275" duration="7368000" />
+      <workItem from="1546678751275" duration="7519000" />
+      <workItem from="1546756370394" duration="3669000" />
+      <workItem from="1546761844504" duration="478000" />
+      <workItem from="1546762387309" duration="4000000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_pyunitdemo_py - 2019.01.06 at 15h 00m 39s.xml">
+      <configuration name="Unittests in pyunitdemo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pyunitdemo_TAdd_test_add1 - 2019.01.06 at 15h 02m 39s.xml">
+      <configuration name="Unittests for pyunitdemo.TAdd.test_add1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pyunitdemo_py - 2019.01.06 at 15h 04m 02s.xml">
+      <configuration name="Unittests in pyunitdemo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pyunitdemo_TAdd_test_add1 - 2019.01.06 at 15h 04m 11s.xml">
+      <configuration name="Unittests for pyunitdemo.TAdd.test_add1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_clazz_py - 2019.01.06 at 15h 38m 31s.xml">
+      <configuration name="Unittests in clazz.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_clazz_SimpleTest - 2019.01.06 at 15h 44m 55s.xml">
+      <configuration name="Unittests for clazz.SimpleTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_method_py - 2019.01.06 at 15h 50m 43s.xml">
+      <configuration name="Unittests in method.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_clazz_SimpleTest - 2019.01.06 at 16h 27m 41s.xml">
+      <configuration name="Unittests for clazz.SimpleTest" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27514000" />
+    <option name="totallyTimeSpent" value="35812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27172312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +398,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073636" side_tool="true" weight="0.32932332" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32932332" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32932332" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -610,12 +618,8 @@
     <entry file="file://$PROJECT_DIR$/clazz/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clazz/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/class/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/clazz/__init__.py" />
     <entry file="file://$PROJECT_DIR$/clazz/stusclazz/StudentSenior.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -634,6 +638,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit/pyunitdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit/clazz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="24" selection-start-line="30" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/_pytest/mark/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-508">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/test_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/test_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#117#130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
